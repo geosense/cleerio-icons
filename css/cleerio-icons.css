@@ -1,0 +1,173 @@
+@font-face {
+  font-family: 'cleerio-icons';
+  src:  url('../fonts/cleerio-icons.eot?798zwg');
+  src:  url('../fonts/cleerio-icons.eot?798zwg#iefix') format('embedded-opentype'),
+    url('../fonts/cleerio-icons.ttf?798zwg') format('truetype'),
+    url('../fonts/cleerio-icons.woff?798zwg') format('woff'),
+    url('../fonts/cleerio-icons.svg?798zwg#cleerio-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.ci {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'cleerio-icons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ci-spinner:before {
+  content: "\e900";
+}
+.ci-edit-feature:before {
+  content: "\e901";
+}
+.ci-ko:before {
+  content: "\e902";
+}
+.ci-ok:before {
+  content: "\e903";
+}
+.ci-add-feature:before {
+  content: "\e904";
+}
+.ci-caret-down:before {
+  content: "\e905";
+}
+.ci-caret-up:before {
+  content: "\e906";
+}
+.ci-angle-double-left:before {
+  content: "\e907";
+}
+.ci-angle-double-right:before {
+  content: "\e908";
+}
+.ci-angle-left:before {
+  content: "\e909";
+}
+.ci-angle-right:before {
+  content: "\e90a";
+}
+.ci-close:before {
+  content: "\e90b";
+}
+.ci-discard:before {
+  content: "\e90c";
+}
+.ci-delete-feature:before {
+  content: "\e90d";
+}
+.ci-export:before {
+  content: "\e90e";
+}
+.ci-import:before {
+  content: "\e90f";
+}
+.ci-file-doc:before {
+  content: "\e910";
+}
+.ci-file-img:before {
+  content: "\e911";
+}
+.ci-file-pdf:before {
+  content: "\e912";
+}
+.ci-file-xls:before {
+  content: "\e913";
+}
+.ci-files:before {
+  content: "\e914";
+}
+.ci-wrench:before {
+  content: "\e915";
+}
+.ci-copyright-mark:before {
+  content: "\e916";
+}
+.ci-pkn:before {
+  content: "\e917";
+}
+.ci-print:before {
+  content: "\e918";
+}
+.ci-measure:before {
+  content: "\e919";
+}
+.ci-legend:before {
+  content: "\e91a";
+}
+.ci-filter:before {
+  content: "\e91b";
+}
+.ci-help:before {
+  content: "\e91c";
+}
+.ci-iskn:before {
+  content: "\e91d";
+}
+.ci-islh:before {
+  content: "\e91e";
+}
+.ci-help-tooltip:before {
+  content: "\e91f";
+}
+.ci-datagrid:before {
+  content: "\e920";
+}
+.ci-date-range:before {
+  content: "\e921";
+}
+.ci-visible-layers:before {
+  content: "\e922";
+}
+.ci-home:before {
+  content: "\e923";
+}
+.ci-layers:before {
+  content: "\e924";
+}
+.ci-layer-search:before {
+  content: "\e925";
+}
+.ci-search:before {
+  content: "\e926";
+}
+.ci-locate:before {
+  content: "\e927";
+}
+.ci-locate-disabled:before {
+  content: "\e928";
+}
+.ci-locate-success:before {
+  content: "\e929";
+}
+.ci-user-circle:before {
+  content: "\e92a";
+}
+.ci-login:before {
+  content: "\e92b";
+}
+.ci-logout:before {
+  content: "\e92c";
+}
+.ci-options:before {
+  content: "\e92d";
+}
+.ci-vita:before {
+  content: "\e92e";
+}
+.ci-neighbours:before {
+  content: "\e92f";
+}
+.ci-talk-to:before {
+  content: "\e930";
+}
