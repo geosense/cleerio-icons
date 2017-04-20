@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="spinner.svg">
+   sodipodi:docname="user.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="701.20051"
-     inkscape:cy="640.87285"
+     inkscape:zoom="0.35"
+     inkscape:cx="-60.714286"
+     inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="1024,512"
+       position="0,512"
        orientation="0,1"
        id="guide3361"
        inkscape:label=""
@@ -142,28 +142,13 @@
      id="layer1"
      transform="translate(0,-28.362161)">
     <g
-       transform="matrix(-0.59375,0,0,0.59259259,1044,142.13998)"
+       transform="matrix(0.85333333,0,0,-0.85333333,0,1052.3622)"
        id="g4">
       <path
          style="fill:currentColor"
          inkscape:connector-curvature="0"
-         d="M 526,142 Q 526,89 488.5,51.5 451,14 398,14 q -52,0 -90,38 -38,38 -38,90 0,53 37.5,90.5 Q 345,270 398,270 451,270 488.5,232.5 526,195 526,142 Z m 498,-206 q 0,-53 -37.5,-90.5 Q 949,-192 896,-192 q -53,0 -90.5,37.5 Q 768,-117 768,-64 768,-11 805.5,26.5 843,64 896,64 949,64 986.5,26.5 1024,-11 1024,-64 Z M 320,640 Q 320,587 282.5,549.5 245,512 192,512 139,512 101.5,549.5 64,587 64,640 64,693 101.5,730.5 139,768 192,768 245,768 282.5,730.5 320,693 320,640 Z M 1522,142 q 0,-52 -38,-90 -38,-38 -90,-38 -53,0 -90.5,37.5 Q 1266,89 1266,142 q 0,53 37.5,90.5 37.5,37.5 90.5,37.5 53,0 90.5,-37.5 Q 1522,195 1522,142 Z m -964,996 q 0,-66 -47,-113 -47,-47 -113,-47 -66,0 -113,47 -47,47 -47,113 0,66 47,113 47,47 113,47 66,0 113,-47 47,-47 47,-113 z M 1728,640 q 0,-53 -37.5,-90.5 Q 1653,512 1600,512 q -53,0 -90.5,37.5 -37.5,37.5 -37.5,90.5 0,53 37.5,90.5 37.5,37.5 90.5,37.5 53,0 90.5,-37.5 Q 1728,693 1728,640 Z m -640,704 q 0,-80 -56,-136 -56,-56 -136,-56 -80,0 -136,56 -56,56 -56,136 0,80 56,136 56,56 136,56 80,0 136,-56 56,-56 56,-136 z m 530,-206 q 0,-93 -66,-158.5 -66,-65.5 -158,-65.5 -93,0 -158.5,65.5 -65.5,65.5 -65.5,158.5 0,92 65.5,158 65.5,66 158.5,66 92,0 158,-66 66,-66 66,-158 z"
+         d="m 600,1200 q 124,0 212,-88 88,-88 88,-212 l 0,-250 q 0,-46 -31,-98 -31,-52 -69,-52 l 0,-75 q 0,-10 6,-21.5 6,-11.5 15,-17.5 l 358,-230 q 9,-5 15,-16.5 6,-11.5 6,-21.5 l 0,-93 Q 1200,15 1192.5,7.5 1185,0 1175,0 L 25,0 Q 15,0 7.5,7.5 0,15 0,25 l 0,93 q 0,10 6,21.5 6,11.5 15,16.5 l 358,230 q 9,6 15,17.5 6,11.5 6,21.5 l 0,75 q -38,0 -69,52 -31,52 -31,98 l 0,250 q 0,124 88,212 88,88 212,88 z"
          id="path6" />
     </g>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 1024,540.36216 Z"
-       id="path4165"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M -4.2426407,540.36216 Z"
-       id="path4167"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -0.38664322,540.36216 1.06066012,0 -1.06066012,0 -0.0196068,0"
-       id="path4169"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>

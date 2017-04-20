@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="search.svg">
+   sodipodi:docname="caret-left.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26269531"
-     inkscape:cx="92.370489"
-     inkscape:cy="600.80401"
+     inkscape:zoom="0.35"
+     inkscape:cx="-367.72202"
+     inkscape:cy="506.25727"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -141,14 +141,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-28.362161)">
-    <g
-       transform="matrix(0.7457279,0,0,-0.74728941,57.288449,982.38385)"
-       id="g4">
-      <path
-         style="fill:currentColor"
-         inkscape:connector-curvature="0"
-         d="m 500,1191 q 100,0 191,-39 91,-39 156.5,-104.5 Q 913,982 952,891 991,800 991,700 l -1,-2 1,-5 q 0,-141 -78,-262 l 275,-274 q 23,-26 22.5,-44.5 Q 1210,94 1188,70 L 1129,12 Q 1103,-8 1082.5,-8 1062,-8 1043,12 L 768,286 Q 649,209 507,209 l -5,1 -2,-1 Q 400,209 309,248 218,287 152.5,352.5 87,418 48,509 9,600 9,700 9,800 48,891 87,982 152.5,1047.5 218,1113 309,1152 q 91,39 191,39 z m 0,-169 q -88,0 -162,-43 -74,-43 -117,-117 -43,-74 -43,-162 0,-88 43,-162 43,-74 117,-117 74,-43 162,-43 88,0 162,43 74,43 117,117 43,74 43,162 0,88 -43,162 -43,74 -117,117 -74,43 -162,43 z"
-         id="path6" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor"
+       d="m 652,860.36216 q -16.25,0 -28.125,-11.875 l -280,-280 Q 332,556.61216 332,540.36216 q 0,-16.25 11.875,-28.125 l 280,-280 q 11.875,-11.875 28.125,-11.875 16.25,0 28.125,11.875 11.875,11.875 11.875,28.125 l 0,560 q 0,16.25 -11.875,28.125 -11.875,11.875 -28.125,11.875 z"
+       id="path6" />
   </g>
 </svg>

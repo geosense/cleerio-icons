@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ci-wrench.svg">
+   sodipodi:docname="wrench.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="139.78587"
+     inkscape:cx="-476.40719"
      inkscape:cy="936.52239"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -142,7 +142,7 @@
      id="layer1"
      transform="translate(0,-28.362161)">
     <g
-       transform="matrix(0.62400975,0,0,-0.62325015,-13.104205,905.89837)"
+       transform="matrix(0.54600853,0,0,-0.54534388,52.533821,860.20635)"
        id="g4">
       <path
          style="fill:currentColor"

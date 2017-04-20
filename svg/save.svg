@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ci-save.svg">
+   sodipodi:docname="ok.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="877.89397"
-     inkscape:cy="339.06482"
+     inkscape:zoom="0.35"
+     inkscape:cx="-60.714286"
+     inkscape:cy="520"
      inkscape:document-units="px"
-     inkscape:current-layer="g4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      showguides="true"
@@ -142,17 +142,13 @@
      id="layer1"
      transform="translate(0,-28.362161)">
     <g
-       transform="matrix(0.61538462,0,0,-0.61588542,0,1052.3622)"
+       transform="matrix(0.66064516,0,0,-0.66161616,-79.938065,1061.6248)"
        id="g4">
-      <g
-         transform="matrix(1.366174,0,0,1.3637617,-51.914614,81.25459)"
-         id="g4-8">
-        <path
-           style="fill:currentColor"
-           inkscape:connector-curvature="0"
-           d="m 465,477 571,571 q 8,8 18,8 10,0 17,-8 l 177,-177 q 8,-7 8,-17 0,-10 -8,-18 L 465,52 Q 458,44 447.5,44 437,44 430,52 L 46,436 q -8,8 -8,18 0,10 8,17 l 177,177 q 7,8 17,8 10,0 18,-8 L 429,477 q 7,-7 18,-7 11,0 18,7 z"
-           id="path6" />
-      </g>
+      <path
+         style="fill:currentColor"
+         inkscape:connector-curvature="0"
+         d="m 1671,970 q 0,-40 -28,-68 L 919,178 783,42 Q 755,14 715,14 675,14 647,42 L 511,178 149,540 q -28,28 -28,68 0,40 28,68 l 136,136 q 28,28 68,28 40,0 68,-28 l 294,-295 656,657 q 28,28 68,28 40,0 68,-28 l 136,-136 q 28,-28 28,-68 z"
+         id="path6" />
     </g>
   </g>
 </svg>

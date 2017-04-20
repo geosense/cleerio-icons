@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ci-caret-down.svg">
+   sodipodi:docname="caret-down.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-253.57143"
-     inkscape:cy="520"
+     inkscape:cx="151.81839"
+     inkscape:cy="525.71429"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -144,7 +144,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:currentColor"
-       d="m 1024,316.36216 q 0,26 -19,45 l -448,448 q -19,19 -45,19 -26,0 -45,-19 l -448,-448 q -19,-19 -19,-45 0,-26 19,-45 19,-19 45,-19 l 896,0 q 26,0 45,19 19,19 19,45 z"
+       d="m 832,400.36216 q 0,16.25 -11.875,28.125 l -280,280 q -11.875,11.875 -28.125,11.875 -16.25,0 -28.125,-11.875 l -280,-280 Q 192,416.61216 192,400.36216 q 0,-16.25 11.875,-28.125 11.875,-11.875 28.125,-11.875 l 560,0 q 16.25,0 28.125,11.875 11.875,11.875 11.875,28.125 z"
        id="path6" />
   </g>
 </svg>
