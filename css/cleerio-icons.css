@@ -176,144 +176,153 @@
   content: "\e913";
 }
 .ci-file:before {
-  content: "\e942";
-}
-.ci-file-code:before {
   content: "\e914";
 }
-.ci-file-doc:before {
+.ci-file-code:before {
   content: "\e915";
 }
-.ci-file-img:before {
+.ci-file-doc:before {
   content: "\e916";
 }
-.ci-file-pdf:before {
+.ci-file-img:before {
   content: "\e917";
 }
-.ci-files:before {
+.ci-file-pdf:before {
   content: "\e918";
 }
-.ci-file-xls:before {
+.ci-files:before {
   content: "\e919";
 }
-.ci-filter:before {
+.ci-file-xls:before {
   content: "\e91a";
 }
-.ci-folder:before {
+.ci-filter:before {
   content: "\e91b";
 }
-.ci-folder-opened:before {
+.ci-folder:before {
   content: "\e91c";
 }
-.ci-geom-filter:before {
+.ci-folder-opened:before {
   content: "\e91d";
 }
-.ci-help:before {
+.ci-geom-filter:before {
   content: "\e91e";
 }
-.ci-help-tooltip:before {
+.ci-help:before {
   content: "\e91f";
 }
-.ci-home:before {
+.ci-help-tooltip:before {
   content: "\e920";
 }
-.ci-import:before {
+.ci-home:before {
   content: "\e921";
 }
-.ci-iskn:before {
+.ci-import:before {
   content: "\e922";
 }
-.ci-islh:before {
+.ci-info:before {
   content: "\e923";
 }
-.ci-ko:before {
+.ci-iskn:before {
   content: "\e924";
 }
-.ci-layers:before {
+.ci-islh:before {
   content: "\e925";
 }
-.ci-layer-search:before {
+.ci-ko:before {
   content: "\e926";
 }
-.ci-legend:before {
+.ci-layers:before {
   content: "\e927";
 }
-.ci-list:before {
+.ci-layer-search:before {
   content: "\e928";
 }
-.ci-locate:before {
+.ci-legend:before {
   content: "\e929";
 }
-.ci-locate-disabled:before {
+.ci-list:before {
   content: "\e92a";
 }
-.ci-locate-success:before {
+.ci-locate:before {
   content: "\e92b";
 }
-.ci-login:before {
+.ci-locate-disabled:before {
   content: "\e92c";
 }
-.ci-logout:before {
+.ci-locate-success:before {
   content: "\e92d";
 }
-.ci-measure:before {
+.ci-login:before {
   content: "\e92e";
 }
-.ci-menu:before {
+.ci-logout:before {
   content: "\e92f";
 }
-.ci-minus:before {
+.ci-measure:before {
   content: "\e930";
 }
-.ci-neighbours:before {
+.ci-menu:before {
   content: "\e931";
 }
-.ci-ok:before {
+.ci-minus:before {
   content: "\e932";
 }
-.ci-options:before {
+.ci-neighbours:before {
   content: "\e933";
 }
-.ci-pkn:before {
+.ci-ok:before {
   content: "\e934";
 }
-.ci-plus:before {
+.ci-options:before {
   content: "\e935";
 }
-.ci-print:before {
+.ci-pkn:before {
   content: "\e936";
 }
-.ci-remove:before {
+.ci-plus:before {
   content: "\e937";
 }
-.ci-save:before {
+.ci-print:before {
   content: "\e938";
 }
-.ci-search:before {
+.ci-remove:before {
   content: "\e939";
 }
-.ci-spinner:before {
+.ci-save:before {
   content: "\e93a";
 }
-.ci-talk-to:before {
+.ci-search:before {
   content: "\e93b";
 }
-.ci-time:before {
+.ci-spinner:before {
   content: "\e93c";
 }
-.ci-user:before {
+.ci-talk-to:before {
   content: "\e93d";
 }
-.ci-user-circle:before {
+.ci-time:before {
   content: "\e93e";
 }
-.ci-visible-layers:before {
+.ci-user:before {
   content: "\e93f";
 }
-.ci-vita:before {
+.ci-user-circle:before {
   content: "\e940";
 }
-.ci-wrench:before {
+.ci-visible-layers:before {
   content: "\e941";
+}
+.ci-vita:before {
+  content: "\e942";
+}
+.ci-wrench:before {
+  content: "\e943";
+}
+.ci-plus-circle:before {
+  content: "\e944";
+}
+.ci-minus-circle:before {
+  content: "\e945";
 }
 

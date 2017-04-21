@@ -1,19 +1,19 @@
 // inspired by https://github.com/andreypopp/react-fa
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 
-export default class Icon extends React.Component {
+
+export default class Icon extends React.PureComponent {
 
   static propTypes = {
     name: PropTypes.string.isRequired,
     className: PropTypes.string,
-    size: PropTypes.oneOf(['lg', '2x', '3x', '4x', '5x']),
-    rotate: PropTypes.oneOf(['45', '90', '135', '180', '225', '270', '315']),
+    size: PropTypes.oneOf(['12', '14', '18', '22', '24']),
+    rotate: PropTypes.oneOf(['90', '180', '270']),
     flip: PropTypes.oneOf(['horizontal', 'vertical']),
-    fixedWidth: PropTypes.bool,
     spin: PropTypes.bool,
     pulse: PropTypes.bool,
-    stack: PropTypes.oneOf(['1x', '2x']),
-    inverse: PropTypes.bool,
+    pull: PropTypes.oneOf(['left', 'right']),
     Component: PropTypes.oneOfType([PropTypes.string, PropTypes.func]),
   };
 
@@ -22,7 +22,7 @@ export default class Icon extends React.Component {
   };
 
   render() {
-    const { Component, name, size, rotate, flip, spin, fixedWidth, stack, inverse, pulse, className,
+    const { Component, name, size, rotate, flip, spin, pulse, className, pull,
       ...props } = this.props;
 
     let classNames = `ci ci-${name}`;
@@ -36,21 +36,14 @@ export default class Icon extends React.Component {
     if (flip) {
       classNames = `${classNames} ci-flip-${flip}`;
     }
-    if (fixedWidth) {
-      classNames = `${classNames} ci-fw`;
-    }
-    if (spin) {
+     if (spin) {
       classNames = `${classNames} ci-spin`;
     }
     if (pulse) {
       classNames = `${classNames} ci-pulse`;
     }
-
-    if (stack) {
-      classNames = `${classNames} ci-stack-${stack}`;
-    }
-    if (inverse) {
-      classNames = `${classNames} ci-inverse`;
+    if (pull) {
+      classNames = `${classNames} ci-flip-${pull}`;
     }
 
     if (className) {
