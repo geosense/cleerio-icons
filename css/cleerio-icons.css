@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'cleerio-icons';
-  src:  url('../fonts/cleerio-icons.eot?798zwg');
-  src:  url('../fonts/cleerio-icons.eot?798zwg#iefix') format('embedded-opentype'),
-    url('../fonts/cleerio-icons.ttf?798zwg') format('truetype'),
-    url('../fonts/cleerio-icons.woff?798zwg') format('woff'),
-    url('../fonts/cleerio-icons.svg?798zwg#cleerio-icons') format('svg');
+  src:  url('../fonts/cleerio-icons.eot?d1nbef');
+  src:  url('../fonts/cleerio-icons.eot?d1nbef#iefix') format('embedded-opentype'),
+    url('../fonts/cleerio-icons.ttf?d1nbef') format('truetype'),
+    url('../fonts/cleerio-icons.woff?d1nbef') format('woff'),
+    url('../fonts/cleerio-icons.svg?d1nbef#cleerio-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -324,5 +324,8 @@
 }
 .ci-minus-circle:before {
   content: "\e945";
+}
+.ci-undo:before {
+  content: "\e946";
 }
 
