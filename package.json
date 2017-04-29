@@ -1,15 +1,19 @@
 {
-  "name": "cleerio-icons",
-  "version": "1.0.0",
+  "name": "@cleerio/cleerio-icons",
+  "version": "1.0.2",
+  "private": false,
   "description": "Icon set for Cleerio apps",
-  "main": "lib/index.js",
+  "main": "dist/index.js",
   "style": "css/cleerio-icons.css",
-  "repository": "git@github.com:geoportal/cleerio-icons.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/geosense/cleerio-icons.git"
+  },
   "author": "Cleerio contributors <developer@cleerio.com>",
   "license": "GPL-2.0",
   "homepage": "https://www.cleerio.com",
   "scripts": {
-    "compile": "babel --presets es2015,stage-0,react -d lib/ src/",
+    "compile": "./node_modules/.bin/babel --presets es2015,stage-0,react -d dist src",
     "prepublish": "npm run compile"
   },
   "keywords": [
@@ -30,5 +34,8 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1"
+  },
+  "bugs": {
+    "url": "https://github.com/geosense/cleerio-icons/issues"
   }
 }
