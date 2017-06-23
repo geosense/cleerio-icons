@@ -328,4 +328,6 @@
 .ci-undo:before {
   content: "\e946";
 }
-
+.ci-view-map:before {
+  content: "\e947";
+}
