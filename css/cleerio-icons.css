@@ -331,3 +331,9 @@
 .ci-view-map:before {
   content: "\e947";
 }
+.ci-bulk-actions:before {
+  content: "\e948";
+}
+.ci-forward:before {
+  content: "\e949";
+}
