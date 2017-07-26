@@ -1,3 +1,2 @@
-## Install
-
-```yarn add @cleerio/cleerio-icons```
+## Cleerio Icons Demo
+https://geosense.github.io/cleerio-icons/

@@ -34,7 +34,7 @@
       padding-top: 0;
     }
     </style>
-    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
   </head>
 
   <body>
@@ -76,7 +76,7 @@
             }
 
             for (i=0; i < icons.length; i++) {
-              iconOutput += '<a href="./svg/' + icons[i] + '.svg" title="' + icons[i] + '" class="sprite"><img src="./svg/' + icons[i] + '.svg" height="50">' + icons[i] + '</a>';
+              iconOutput += '<a href="https://raw.githubusercontent.com/geosense/cleerio-icons/master/svg/' + icons[i] + '.svg" title="' + icons[i] + '" class="sprite"><img src="https://raw.githubusercontent.com/geosense/cleerio-icons/master/svg/' + icons[i] + '.svg" height="50">' + icons[i] + '</a>';
             }
 
             $(gallerydiv).append(iconOutput);
