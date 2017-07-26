@@ -20,11 +20,13 @@
       white-space: nowrap;
       margin: 0 2px;
     }
-    .sprite img {
+    .sprite img, .sprite svg {
       margin: 10px auto;
       display: block;
       height: 30px;
+      width: 30px;
     }
+
     h2 {
       clear: both;
       margin-top: 0;
@@ -56,7 +58,7 @@
         var svgMAUrl = 'https://raw.githubusercontent.com/geosense/cleerio-icons/master/fonts/cleerio-icons.svg';
         var svgMoAUrl = 'https://raw.githubusercontent.com/geosense/cleerio-icons/master/moa/Cleerio-MoA-Icons.svg';
 
-        function printSVGgallery(svgurl, urldiv, gallerydiv) {
+        function printSVGgallery(svgurl, urldiv, gallerydiv, type) {
           $(urldiv).append(svgurl);
 
           $(urldiv).load(svgurl, function () {
@@ -75,18 +77,26 @@
               }
             }
 
+
             for (i=0; i < icons.length; i++) {
-              iconOutput += '<a href="https://raw.githubusercontent.com/geosense/cleerio-icons/master/svg/' + icons[i] + '.svg" title="' + icons[i] + '" class="sprite"><img src="https://raw.githubusercontent.com/geosense/cleerio-icons/master/svg/' + icons[i] + '.svg" height="50">' + icons[i] + '</a>';
+              var container = $('<div class="sprite" id="'+type+'-'+icons[i]+'">');
+              var label = $('<span title="' + icons[i] + '">'+ icons[i] +'</span>');
+              container.append(label);
+              $(gallerydiv).append(container);
+
+              (function(id, type) {
+                $.get('https://raw.githubusercontent.com/geosense/cleerio-icons/master/svg/' + id + '.svg', function(data) {
+                var html = $.parseHTML(data);
+                $('#'+type+'-'+id).prepend(html);
+              });
+              })(icons[i], type);
             }
-
-            $(gallerydiv).append(iconOutput);
-
-          })
+          });
 
         }
 
-        printSVGgallery(svgMAUrl, '#svg-MA', '.icons-MA');
-        printSVGgallery(svgMoAUrl, '#svg-MoA', '.icons-MoA');
+        printSVGgallery(svgMAUrl, '#svg-MA', '.icons-MA', 'ma');
+        printSVGgallery(svgMoAUrl, '#svg-MoA', '.icons-MoA', 'moa');
       });
     </script>
 
