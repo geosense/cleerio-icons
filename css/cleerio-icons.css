@@ -337,3 +337,6 @@
 .ci-forward:before {
   content: "\e949";
 }
+.ci-language-switcher:before {
+  content: "\e94a";
+}
