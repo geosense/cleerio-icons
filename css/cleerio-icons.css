@@ -349,3 +349,42 @@
 .ci-angle-bottom:before {
   content: "\e94d";
 }
+.ci-text-align-left:before {
+  content: "\e94e";
+}
+.ci-text-align-center:before {
+  content: "\e94f";
+}
+.ci-text-align-right:before {
+  content: "\e950";
+}
+.ci-font-size:before {
+  content: "\e951";
+}
+.ci-bold:before {
+  content: "\e952";
+}
+.ci-italic:before {
+  content: "\e953";
+}
+.ci-draw:before {
+  content: "\e954";
+}
+.ci-move-down:before {
+  content: "\e955";
+}
+.ci-move-left:before {
+  content: "\e956";
+}
+.ci-move-right:before {
+  content: "\e957";
+}
+.ci-move-up:before {
+  content: "\e958";
+}
+.ci-map:before {
+  content: "\e959";
+}
+.ci-label:before {
+  content: "\e95a";
+}
