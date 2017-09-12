@@ -14,7 +14,7 @@
    viewBox="0 0 1024 1024"
    id="svg3353"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="angle-bottom.svg">
   <defs
      id="defs3355" />
@@ -34,95 +34,109 @@
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1536"
-     inkscape:window-height="801"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="0,512"
        orientation="0,1"
        id="guide3361"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,128"
        orientation="0,1"
        id="guide3363"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,256"
        orientation="0,1"
        id="guide3365"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,640"
        orientation="0,1"
        id="guide3367"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,384"
        orientation="0,1"
        id="guide3369"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,768"
        orientation="0,1"
        id="guide3371"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,896"
        orientation="0,1"
        id="guide3373"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="896,0"
        orientation="1,0"
        id="guide3375"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="128,0"
        orientation="1,0"
        id="guide3377"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="256,0"
        orientation="1,0"
        id="guide3379"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="384,0"
        orientation="1,0"
        id="guide3383"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="512,0"
        orientation="1,0"
        id="guide3385"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="640,0"
        orientation="1,0"
        id="guide3387"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="768,0"
        orientation="1,0"
        id="guide3389"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata3358">
@@ -142,12 +156,12 @@
      id="layer1"
      transform="translate(0,-28.362161)">
     <g
-       transform="matrix(0,-4,-4,0,1536,1564.3622)"
+       transform="matrix(0,-1.0309278,1.0260521,0,-79.006012,886.75391)"
        id="g4">
       <path
          style="fill:currentColor"
          inkscape:connector-curvature="0"
-         d="M 335,354 237,256 335,158 305,128 177,256 305,384 Z"
+         d="m 627,992 q 0,-13 -10,-23 L 224,576 617,183 q 10,-10 10,-23 0,-13 -10,-23 L 567,87 Q 557,77 544,77 531,77 521,87 L 55,553 q -10,10 -10,23 0,13 10,23 l 466,466 q 10,10 23,10 13,0 23,-10 l 50,-50 q 10,-10 10,-23 z"
          id="path6" />
     </g>
   </g>

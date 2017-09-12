@@ -343,3 +343,9 @@
 .ci-filter-discard:before {
   content: "\e94b";
 }
+.ci-angle-top:before {
+  content: "\e94c";
+}
+.ci-angle-bottom:before {
+  content: "\e94d";
+}
