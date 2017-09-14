@@ -238,3 +238,12 @@
 .cmi-remove-polygon:before {
   content: "\e945";
 }
+.cmi-layer-search:before {
+  content: "\e946";
+}
+.cmi-star:before {
+  content: "\e947";
+}
+.cmi-star-empty:before {
+  content: "\e948";
+}
