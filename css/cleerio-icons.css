@@ -388,3 +388,18 @@
 .ci-label:before {
   content: "\e95a";
 }
+.ci-resize-height:before {
+  content: "\e95f";
+}
+.ci-resize-width:before {
+  content: "\e960";
+}
+.ci-location-arrow:before {
+  content: "\e961";
+}
+.ci-pin:before {
+  content: "\e962";
+}
+.ci-zindex:before {
+  content: "\e963";
+}
