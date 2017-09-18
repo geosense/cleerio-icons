@@ -1,0 +1,16 @@
+@import './base';
+
+@font-face {
+  font-family: 'cleerio-icons';
+  src:  url('../fonts/cleerio-cmcp.eot?d1nbef');
+  src:  url('../fonts/cleerio-cmcp.eot?d1nbef#iefix') format('embedded-opentype'),
+    url('../fonts/cleerio-cmcp.ttf?d1nbef') format('truetype'),
+    url('../fonts/cleerio-cmcp.woff?d1nbef') format('woff'),
+    url('../fonts/cleerio-cmcp.svg?d1nbef#cleerio-cmcp') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon-check:before {
+  content: "\f00c";
+}

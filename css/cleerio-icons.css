@@ -1,3 +1,5 @@
+@import './base';
+
 @font-face {
   font-family: 'cleerio-icons';
   src:  url('../fonts/cleerio-icons.eot?d1nbef');
@@ -7,113 +9,6 @@
     url('../fonts/cleerio-icons.svg?d1nbef#cleerio-icons') format('svg');
   font-weight: normal;
   font-style: normal;
-}
-
-.ci {
-  /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'cleerio-icons';
-  speak: none;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  display: inline-block;
-  font-size: 16px;
-
-  /* Better Font Rendering =========== */
-  text-rendering: auto;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-.ci-12 {
-  font-size: 12px;
-}
-.ci-14 {
-  font-size: 14px;
-}
-.ci-18 {
-  font-size: 18px;
-}
-.ci-20 {
-  font-size: 20px;
-}
-.ci-22 {
-  font-size: 22px;
-}
-.ci-24 {
-  font-size: 24px;
-}
-.ci-pull-left {
-  float: left;
-}
-.ci-pull-right {
-  float: right;
-}
-.ci-spin {
-  -webkit-animation: ci-spin 2s infinite linear;
-  animation: ci-spin 2s infinite linear;
-}
-.ci-pulse {
-  -webkit-animation: ci-spin 1s infinite steps(8);
-  animation: ci-spin 1s infinite steps(8);
-}
-@-webkit-keyframes ci-spin {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(359deg);
-    transform: rotate(359deg);
-  }
-}
-@keyframes ci-spin {
-  0% {
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(359deg);
-    transform: rotate(359deg);
-  }
-}
-.ci-rotate-90 {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
-  -webkit-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  transform: rotate(90deg);
-}
-.ci-rotate-180 {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
-  -webkit-transform: rotate(180deg);
-  -ms-transform: rotate(180deg);
-  transform: rotate(180deg);
-}
-.ci-rotate-270 {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
-  -webkit-transform: rotate(270deg);
-  -ms-transform: rotate(270deg);
-  transform: rotate(270deg);
-}
-.ci-flip-horizontal {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
-  -webkit-transform: scale(-1, 1);
-  -ms-transform: scale(-1, 1);
-  transform: scale(-1, 1);
-}
-.ci-flip-vertical {
-  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
-  -webkit-transform: scale(1, -1);
-  -ms-transform: scale(1, -1);
-  transform: scale(1, -1);
-}
-:root .ci-rotate-90,
-:root .ci-rotate-180,
-:root .ci-rotate-270,
-:root .ci-flip-horizontal,
-:root .ci-flip-vertical {
-  filter: none;
 }
 .ci-add-feature:before {
   content: "\e900";

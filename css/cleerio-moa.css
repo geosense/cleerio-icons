@@ -1,0 +1,234 @@
+@import './base';
+
+/* IMPORTANT NOTICE */
+/* New icons have to be added to the end in icomoon app due to the need of having constant ligatures for MoA */
+/* If an existing ligature is changed MoA will have a bad icon on that spot */
+@font-face {
+  font-family: 'cleerio-icons';
+  src:  url('../fonts/cleerio-moa.eot?d1nbef');
+  src:  url('../fonts/cleerio-moa.eot?d1nbef#iefix') format('embedded-opentype'),
+    url('../fonts/cleerio-moa.ttf?d1nbef') format('truetype'),
+    url('../fonts/cleerio-moa.woff?d1nbef') format('woff'),
+    url('../fonts/cleerio-moa.svg?d1nbef#cleerio-moa') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.ci-add-feature:before {
+  content: "\e900";
+}
+.ci-angle-bottom:before {
+  content: "\e901";
+}
+.ci-angle-left:before {
+  content: "\e902";
+}
+.ci-angle-right:before {
+  content: "\e903";
+}
+.ci-angle-top:before {
+  content: "\e904";
+}
+.ci-cancel:before {
+  content: "\e905";
+}
+.ci-circle:before {
+  content: "\e906";
+}
+.ci-circle-dot:before {
+  content: "\e907";
+}
+.ci-circle-exclamation:before {
+  content: "\e908";
+}
+.ci-circle-help:before {
+  content: "\e909";
+}
+.ci-circle-info:before {
+  content: "\e90a";
+}
+.ci-circle-minus:before {
+  content: "\e90b";
+}
+.ci-circle-plus:before {
+  content: "\e90c";
+}
+.ci-circle-times:before {
+  content: "\e90d";
+}
+.ci-cog:before {
+  content: "\e90e";
+}
+.ci-date:before {
+  content: "\e90f";
+}
+.ci-datetime:before {
+  content: "\e910";
+}
+.ci-delete:before {
+  content: "\e911";
+}
+.ci-dots-horizontal:before {
+  content: "\e912";
+}
+.ci-dots-vertical:before {
+  content: "\e913";
+}
+.ci-earth:before {
+  content: "\e914";
+}
+.ci-edit:before {
+  content: "\e915";
+}
+.ci-export:before {
+  content: "\e916";
+}
+.ci-file:before {
+  content: "\e917";
+}
+.ci-file-code:before {
+  content: "\e918";
+}
+.ci-file-doc:before {
+  content: "\e919";
+}
+.ci-file-img:before {
+  content: "\e91a";
+}
+.ci-file-pdf:before {
+  content: "\e91b";
+}
+.ci-files:before {
+  content: "\e91c";
+}
+.ci-file-xls:before {
+  content: "\e91d";
+}
+.ci-folder:before {
+  content: "\e91e";
+}
+.ci-folder-opened:before {
+  content: "\e91f";
+}
+.ci-hidden:before {
+  content: "\e920";
+}
+.ci-home:before {
+  content: "\e921";
+}
+.ci-chevron-down:before {
+  content: "\e922";
+}
+.ci-chevron-left:before {
+  content: "\e923";
+}
+.ci-chevron-right:before {
+  content: "\e924";
+}
+.ci-chevron-up:before {
+  content: "\e925";
+}
+.ci-import:before {
+  content: "\e926";
+}
+.ci-layer-off:before {
+  content: "\e927";
+}
+.ci-layer-on:before {
+  content: "\e928";
+}
+.ci-locate:before {
+  content: "\e929";
+}
+.ci-locate-disabled:before {
+  content: "\e92a";
+}
+.ci-locate-success:before {
+  content: "\e92b";
+}
+.ci-marker:before {
+  content: "\e92c";
+}
+.ci-marker-edit:before {
+  content: "\e92d";
+}
+.ci-marker-locate:before {
+  content: "\e92e";
+}
+.ci-marker-off:before {
+  content: "\e92f";
+}
+.ci-relation-link:before {
+  content: "\e930";
+}
+.ci-search:before {
+  content: "\e931";
+}
+.ci-synchro-error:before {
+  content: "\e932";
+}
+.ci-synchro-ko:before {
+  content: "\e933";
+}
+.ci-synchro-ok:before {
+  content: "\e934";
+}
+.ci-time:before {
+  content: "\e935";
+}
+.ci-user:before {
+  content: "\e936";
+}
+.ci-view-data:before {
+  content: "\e937";
+}
+.ci-view-map:before {
+  content: "\e938";
+}
+.ci-visible:before {
+  content: "\e939";
+}
+.ci-wifi-off:before {
+  content: "\e93a";
+}
+.ci-zoom-in:before {
+  content: "\e93b";
+}
+.ci-zoom-out:before {
+  content: "\e93c";
+}
+.ci-point-remove-on-map:before {
+  content: "\e93d";
+}
+.ci-undo:before {
+  content: "\e93e";
+}
+.ci-edit-cross:before {
+  content: "\e93f";
+}
+.ci-add-point:before {
+  content: "\e940";
+}
+.ci-remove-point:before {
+  content: "\e941";
+}
+.ci-add-line:before {
+  content: "\e942";
+}
+.ci-remove-line:before {
+  content: "\e943";
+}
+.ci-add-polygon:before {
+  content: "\e944";
+}
+.ci-remove-polygon:before {
+  content: "\e945";
+}
+.ci-layer-search:before {
+  content: "\e946";
+}
+.ci-star:before {
+  content: "\e947";
+}
+.ci-star-empty:before {
+  content: "\e948";
+}
