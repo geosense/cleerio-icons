@@ -15,9 +15,17 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon-mustr.svg">
+   sodipodi:docname="hand.svg">
   <defs
-     id="defs3355" />
+     id="defs3355">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-95"
-     inkscape:cy="520"
+     inkscape:zoom="0.442287"
+     inkscape:cx="681.41225"
+     inkscape:cy="562.37794"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -137,34 +145,6 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="1,0"
-       id="guide826"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="1,0"
-       id="guide828"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,1"
-       id="guide830"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="0,1"
-       id="guide832"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata3358">
@@ -182,5 +162,14 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362161)" />
+     transform="translate(0,-28.362161)">
+    <g
+       transform="matrix(0.89100053,0,0,1.044898,66.478511,17.913141)"
+       id="g6">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 830.2,448.8 c -18.3,0 -35.4,5 -50.1,13.5 -8.8,-46.6 -49.7,-81.9 -98.9,-81.9 -20,0 -38.5,5.9 -54.2,15.9 -14.6,-37.6 -51.1,-64.2 -93.8,-64.2 -18.8,0 -36.2,5.2 -51.3,14.1 V 110.7 C 482,55.1 436.9,10 381.3,10 325.7,10 280.6,55.1 280.6,110.7 V 565 L 245,524.8 C 208.1,483.2 144.5,479.5 102.9,516.4 61.3,553.4 57.5,617 94.5,658.6 L 314.1,905.9 C 358.3,949.1 433.6,990 498.3,990 H 714.6 C 834.1,990 931,903.3 931,796.3 l -0.1,-246.8 c 0,-55.6 -45.1,-100.7 -100.7,-100.7 z"
+         id="path4" />
+    </g>
+  </g>
 </svg>

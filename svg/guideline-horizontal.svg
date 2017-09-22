@@ -15,9 +15,17 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon-mustr.svg">
+   sodipodi:docname="guideline-horizontal.svg">
   <defs
-     id="defs3355" />
+     id="defs3355">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-95"
-     inkscape:cy="520"
+     inkscape:zoom="1.2509766"
+     inkscape:cx="582.39127"
+     inkscape:cy="844.96049"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,13 +58,6 @@
        position="0,128"
        orientation="0,1"
        id="guide3363"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="0,256"
-       orientation="0,1"
-       id="guide3365"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
@@ -138,30 +139,37 @@
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="1024,0"
        orientation="1,0"
-       id="guide826"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="1,0"
-       id="guide828"
+       id="guide4564"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="0,0"
        orientation="0,1"
-       id="guide830"
+       id="guide4576"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="1024,1024"
        orientation="0,1"
-       id="guide832"
+       id="guide4523"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="512,0"
+       orientation="0,1"
+       id="guide4593"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,256"
+       orientation="0,1"
+       id="guide4595"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
@@ -182,5 +190,54 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362161)" />
+     transform="translate(0,-28.362161)">
+    <g
+       transform="matrix(0,1.044898,-1.0648586,0,1044.4346,17.913153)"
+       id="g20">
+      <g
+         transform="matrix(0.1,0,0,-0.1,0,511)"
+         id="g18">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 2205.4691,109.99989 V -4698.2002 h 172.2656 172.2656 V 109.99989 4918.1 h -172.2656 -172.2656 z"
+           id="path4"
+           style="stroke-width:0.85058868" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 100.00027,-1092.0873 1325.0002,109.95023 100.00027,1311.9878 Z"
+           id="path10"
+           sodipodi:nodetypes="cccc" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.52239567,0,0,0.45714286,-5.2239567,375.79073)"
+       id="g8">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 745,430 c 58,0 105,-47 105,-105 0,-58 -47,-105 -105,-105 -58,0 -105,47 -105,105 0,58 47,105 105,105 z"
+         id="path4-2" />
+      <path
+         inkscape:connector-curvature="0"
+         d="M 928.8,80 H 71.3 C 37.1,80 10,107.8 10,141.9 v 716.2 c 0,34.1 27.1,61.9 61.3,61.9 h 857.5 c 34.1,0 61.3,-27.8 61.3,-61.9 V 141.9 C 990,107.8 962.9,80 928.8,80 Z M 703.2,512.5 c -6.6,-7.7 -16.6,-13.6 -28,-13.6 -11.2,0 -19,5.3 -28,12.5 L 606.3,546 c -8.5,6.1 -15.3,10.3 -25.2,10.3 -9.4,0 -17.9,-3.5 -24.1,-9 -2.2,-2 -6.1,-5.7 -9.4,-9 L 430,411 c -8.8,-10.1 -21.9,-16.4 -36.5,-16.4 -14.7,0 -28.2,7.2 -36.7,17.1 L 80,745.4 V 175.6 C 82.2,160.7 93.8,150 108.7,150 h 782.5 c 15.1,0 27.3,11.2 28.2,26.3 l 0.7,569.6 z"
+         id="path6-6" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="M 1024,476.36216 H 640 v -64 h 384 z"
+       id="path6-1"
+       sodipodi:nodetypes="ccccc"
+       style="stroke-width:0.1088545" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 896,634.36216 H 640 v -64 h 256 z"
+       id="path6-1-5"
+       sodipodi:nodetypes="ccccc"
+       style="stroke-width:0.08887933" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 1024,796.36216 H 640 v -64 h 384 z"
+       id="path6-1-5-2"
+       sodipodi:nodetypes="ccccc"
+       style="stroke-width:0.1088545" />
+  </g>
 </svg>

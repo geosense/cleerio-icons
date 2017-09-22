@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon-mustr.svg">
+   sodipodi:docname="trademark.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-95"
-     inkscape:cy="520"
+     inkscape:zoom="0.62548828"
+     inkscape:cx="784.56737"
+     inkscape:cy="562.47432"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -137,34 +137,6 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="1,0"
-       id="guide826"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="1,0"
-       id="guide828"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,1"
-       id="guide830"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="0,1"
-       id="guide832"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata3358">
@@ -182,5 +154,18 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362161)" />
+     transform="translate(0,-28.362161)">
+    <g
+       transform="matrix(1.0045125,0,0,1.0466067,9.7939813,23.861754)"
+       id="g6" />
+    <g
+       transform="matrix(1.044898,0,0,1.044898,-10.44898,17.913141)"
+       id="g6-8"
+       style="fill:#000000">
+      <path
+         id="path4-9"
+         style="fill:#000000"
+         d="M 500,990 C 229.8,990 10,770.2 10,500 10,229.8 229.8,10 500,10 770.2,10 990,229.8 990,500 990,770.2 770.2,990 500,990 Z M 500,83.9 C 270.6,83.9 83.9,270.5 83.9,500 83.9,729.5 270.6,916.1 500,916.1 729.4,916.1 916.1,729.4 916.1,500 916.1,270.5 729.4,83.9 500,83.9 Z m 244.99999,578.26477 v 82.83524 H 601.855 L 495.62584,530.44973 h -53.93172 v 131.71504 h 58.30586 v 82.83524 H 254.99999 v -82.83524 h 64.50657 v -324.3295 h -64.50657 v -82.83524 h 283.50206 c 53.45105,0 91.90504,14.02289 115.45811,42.06868 23.45693,28.04579 35.37767,59.79763 35.37767,95.35568 0,55.59076 -27.30233,96.25715 -81.52246,121.79885 l 76.42731,147.94153 z M 441.69412,452.32218 h 42.10712 c 51.72062,0 77.67707,-19.2314 77.67707,-57.79436 0,-19.03107 -5.86424,-33.35445 -17.78497,-42.66966 -11.92074,-9.41537 -28.16755,-14.02289 -48.83658,-14.02289 h -53.25878 v 114.48691 z" />
+    </g>
+  </g>
 </svg>

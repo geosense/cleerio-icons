@@ -15,9 +15,17 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon-mustr.svg">
+   sodipodi:docname="guideline-vertical.svg">
   <defs
-     id="defs3355" />
+     id="defs3355">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-95"
-     inkscape:cy="520"
+     inkscape:zoom="1.2509765"
+     inkscape:cx="-50.225175"
+     inkscape:cy="523.40757"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -138,30 +146,23 @@
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="1024,0"
        orientation="1,0"
-       id="guide826"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="1,0"
-       id="guide828"
+       id="guide4564"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="0,0"
        orientation="0,1"
-       id="guide830"
+       id="guide4576"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="1024,1024"
        orientation="0,1"
-       id="guide832"
+       id="guide4523"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
@@ -182,5 +183,24 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362161)" />
+     transform="translate(0,-28.362161)">
+    <g
+       transform="matrix(1.044898,0,0,1.0648586,-10.449024,7.9275237)"
+       id="g20">
+      <g
+         transform="matrix(0.1,0,0,-0.1,0,511)"
+         id="g18">
+        <path
+           style="stroke-width:0.08972274"
+           d="M 220,0 V 511.99414 1024 h 18 18 V 511.99414 0 h -18 z m 164,0 v 64 h 640 V 0 Z m 0,160 v 64 h 384 v -64 z m 0,160 v 64 h 640 V 320 Z M 1.14284e-7,640 128,512 1.14284e-7,384 Z M 424.0293,512 C 401.69688,512 384,528.94571 384,549.73047 V 986.26953 C 384,1007.0543 401.69688,1024 424.0293,1024 H 983.9707 C 1006.2378,1024 1024,1007.0543 1024,986.26953 V 549.73047 C 1023.9347,528.94571 1006.2378,512 983.9707,512 Z m 24.42187,42.66602 h 510.9668 c 9.86022,0 17.82832,6.82744 18.41601,16.03125 l 0.45704,347.18554 -141.63477,-142.26367 c -4.30976,-4.69333 -10.84102,-8.28906 -18.28516,-8.28906 -7.31354,0 -12.40625,3.23057 -18.2832,7.61914 l -26.70703,21.08984 c -5.55045,3.7181 -9.99043,6.27735 -16.45508,6.27735 -6.13815,0 -11.68971,-2.13395 -15.73828,-5.48633 -1.43659,-1.21905 -3.98184,-3.47295 -6.13672,-5.48438 l -76.79297,-77.59375 c -5.74635,-6.15619 -14.30026,-9.99609 -23.83398,-9.99609 -9.59902,0 -18.41439,4.38954 -23.96485,10.42383 l -180.75,203.39648 V 570.26953 c 1.43659,-9.0819 9.01257,-15.60351 18.74219,-15.60351 z m 415.5,42.66796 c -37.87368,0 -68.56445,28.64762 -68.56445,64 0,35.35239 30.69077,64 68.56445,64 37.87369,0 68.56445,-28.64761 68.56445,-64 0,-35.35238 -30.69076,-64 -68.56445,-64 z"
+           transform="matrix(9.5703121,0,0,-9.3909182,100.00042,4918.1)"
+           id="path4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccsssssscsssscccsccscccscccssssss" />
+      </g>
+    </g>
+    <g
+       transform="matrix(0.65299459,0,0,0.60952381,377.47005,491.60025)"
+       id="g8" />
+  </g>
 </svg>

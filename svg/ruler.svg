@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon-mustr.svg">
+   sodipodi:docname="ruler.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-95"
-     inkscape:cy="520"
+     inkscape:zoom="0.31274414"
+     inkscape:cx="1129.7893"
+     inkscape:cy="1051.7556"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -137,34 +137,6 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="1,0"
-       id="guide826"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="1,0"
-       id="guide828"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,1"
-       id="guide830"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="0,1"
-       id="guide832"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata3358">
@@ -174,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -182,5 +154,15 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362161)" />
+     transform="translate(0,-28.362161)">
+    <g
+       transform="matrix(1.0893617,0,0,-1,-45.753191,967.02916)"
+       id="g4">
+      <path
+         style="fill:currentColor"
+         inkscape:connector-curvature="0"
+         d="m 896,256.667 v 340 h -86 v -170 h -84 v 170 h -86 v -170 h -86 v 170 h -84 v -170 h -86 v 170 h -86 v -170 h -84 v 170 h -86 v -340 z m 0,426 c 46,0 86,-40 86,-86 v -340 c 0,-46 -40,-86 -86,-86 H 128 c -46,0 -86,40 -86,86 v 340 c 0,46 40,86 86,86 z"
+         id="path2" />
+    </g>
+  </g>
 </svg>

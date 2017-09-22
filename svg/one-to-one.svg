@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon-mustr.svg">
+   sodipodi:docname="one-to-one.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-95"
-     inkscape:cy="520"
+     inkscape:zoom="0.31274414"
+     inkscape:cx="-284.09828"
+     inkscape:cy="737.4195"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,7 @@
      inkscape:window-y="-9"
      inkscape:window-maximized="1">
     <sodipodi:guide
-       position="0,512"
+       position="384,511.60031"
        orientation="0,1"
        id="guide3361"
        inkscape:label=""
@@ -137,34 +137,6 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="1,0"
-       id="guide826"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="1,0"
-       id="guide828"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="0,1"
-       id="guide830"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="1024,1024"
-       orientation="0,1"
-       id="guide832"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata3358">
@@ -182,5 +154,21 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362161)" />
+     transform="translate(0,-28.362161)">
+    <g
+       transform="matrix(1.044898,0,0,1.044898,-10.44898,17.913141)"
+       id="g6-8"
+       style="fill:#000000">
+      <path
+         style="fill:#000000;stroke-width:1.04489803"
+         d="M 512 0 C 229.66856 -7.5791225e-014 0 229.66856 0 512 C 7.5791225e-014 794.33144 229.66856 1024 512 1024 C 794.33144 1024 1024 794.33144 1024 512 C 1024 229.66856 794.33144 0 512 0 z M 512 77.21875 C 751.6996 77.21875 946.78125 272.19591 946.78125 512 C 946.78125 751.6996 751.6996 946.78125 512 946.78125 C 272.3004 946.78125 77.21875 751.80409 77.21875 512 C 77.21875 272.19591 272.3004 77.21875 512 77.21875 z M 306.54492 344 C 299.2722 364.26993 285.86382 382.04419 266.31836 397.32227 C 246.77291 412.44908 228.66667 422.73599 212 428.18164 L 212 486.04102 C 243.66667 475.60351 271.16666 459.49355 294.5 437.71094 L 294.5 678 L 358.36328 678 L 358.36328 344 L 306.54492 344 z M 720.18164 344 C 712.90892 364.26993 699.50053 382.04419 679.95508 397.32227 C 660.40962 412.44908 642.30338 422.73599 625.63672 428.18164 L 625.63672 486.04102 C 657.30338 475.60351 684.80338 459.49355 708.13672 437.71094 L 708.13672 678 L 772 678 L 772 344 L 720.18164 344 z M 479.95508 437.0293 L 479.95508 500.78906 L 543.81836 500.78906 L 543.81836 437.0293 L 479.95508 437.0293 z M 479.95508 614.24023 L 479.95508 678 L 543.81836 678 L 543.81836 614.24023 L 479.95508 614.24023 z "
+         transform="matrix(0.95703121,0,0,0.95703121,10,10.000038)"
+         id="path4-9" />
+    </g>
+    <g
+       aria-label="1:1"
+       transform="scale(1.0008162,0.99918446)"
+       style="font-style:normal;font-weight:normal;font-size:465.07495117px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:11.62687492"
+       id="text4536" />
+  </g>
 </svg>

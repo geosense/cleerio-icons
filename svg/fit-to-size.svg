@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon-mustr.svg">
+   sodipodi:docname="fit-to-size.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-95"
-     inkscape:cy="520"
+     inkscape:zoom="0.055285875"
+     inkscape:cx="-4564.7152"
+     inkscape:cy="1147.7921"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -138,30 +138,30 @@
        inkscape:color="rgb(0,0,255)"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
-       orientation="1,0"
-       id="guide826"
+       position="0,1024"
+       orientation="0,1"
+       id="guide4769"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="1024,1024"
+       position="0,0"
        orientation="1,0"
-       id="guide828"
+       id="guide4549"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="0,0"
        orientation="0,1"
-       id="guide830"
+       id="guide4551"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="1024,1024"
-       orientation="0,1"
-       id="guide832"
+       orientation="1,0"
+       id="guide4557"
        inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
@@ -182,5 +182,20 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362161)" />
+     transform="translate(0,-28.362161)">
+    <g
+       transform="matrix(1.0893617,0,0,-1.0893617,-45.753191,1098.842)"
+       id="g4"
+       style="fill:#000000" />
+    <g
+       transform="matrix(0.8,0,0,-0.8,376,608.09576)"
+       id="g4-0"
+       style="fill:#000000" />
+    <path
+       id="path4539-4-3"
+       style="fill:#000000;fill-opacity:1;stroke-width:1.11628366"
+       d="m 928,748.36216 v 96 h 96 v -96 z M 720,956.36208 v 96.00012 h 96 v -96.00012 z m -208,-3e-5 v 96.00015 h 96 V 956.36205 Z M 927.99998,540.36216 V 636.3622 H 1024 v -96.00004 z m 2e-5,416 v 96.00004 h 96 v -96.00004 z m -928,-512 v 96 h 96 v -96 z m 0,-208 v 96 h 96.000003 v -96 z M 416,28.362161 v 95.999999 h 96 V 28.362161 Z m -208,0 v 95.999999 h 96 V 28.362161 Z M 0.5,667.86208 h 384 V 1051.8622 H 0.5 Z M 4e-7,28.362163 V 124.36216 H 96 V 28.362163 Z M 640,28.362161 V 95.56138 L 908.80078,96.946762 432,572.36216 l 48,48 476.80078,-475.4154 v 267.4154 H 1024 V 28.362163 Z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
 </svg>

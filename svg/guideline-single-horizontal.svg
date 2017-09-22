@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon-mustr.svg">
+   sodipodi:docname="guideline-single-horizontal.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-95"
-     inkscape:cy="520"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="99.028319"
+     inkscape:cy="416.98187"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -182,5 +182,49 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362161)" />
+     transform="translate(0,-28.362161)">
+    <g
+       transform="matrix(0,1.044898,-1.5000002,0,899.05009,17.913177)"
+       id="g38">
+      <g
+         id="g6">
+        <path
+           style="stroke-width:0.99999994"
+           d="M 9.9999995,258.03336 H 989.99997 l 0,-85.33336 H 10.000004 Z M 377.49999,428.7 h 244.99999 l -122.5,-85.33332 z"
+           id="path4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+      </g>
+      <g
+         id="g8" />
+      <g
+         id="g10" />
+      <g
+         id="g12" />
+      <g
+         id="g14" />
+      <g
+         id="g16" />
+      <g
+         id="g18" />
+      <g
+         id="g20" />
+      <g
+         id="g22" />
+      <g
+         id="g24" />
+      <g
+         id="g26" />
+      <g
+         id="g28" />
+      <g
+         id="g30" />
+      <g
+         id="g32" />
+      <g
+         id="g34" />
+      <g
+         id="g36" />
+    </g>
+  </g>
 </svg>

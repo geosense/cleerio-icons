@@ -118,6 +118,9 @@
 .ci-add-feature:before {
   content: "\e900";
 }
+.ci-angle-bottom:before {
+  content: "\e94d";
+}
 .ci-angle-double-left:before {
   content: "\e901";
 }
@@ -130,8 +133,17 @@
 .ci-angle-right:before {
   content: "\e904";
 }
+.ci-angle-top:before {
+  content: "\e94c";
+}
 .ci-arrow-up:before {
   content: "\e905";
+}
+.ci-bold:before {
+  content: "\e952";
+}
+.ci-bulk-actions:before {
+  content: "\e948";
 }
 .ci-caret-down:before {
   content: "\e906";
@@ -151,6 +163,9 @@
 .ci-copyright-mark:before {
   content: "\e90b";
 }
+.ci-cursor:before {
+  content: "\e974";
+}
 .ci-datagrid:before {
   content: "\e90c";
 }
@@ -166,227 +181,200 @@
 .ci-discard:before {
   content: "\e910";
 }
-.ci-edit:before {
+.ci-draw:before {
+  content: "\e954";
+}
+.ci-draw-circle:before {
   content: "\e911";
 }
-.ci-exclamation:before {
+.ci-draw-line:before {
   content: "\e912";
 }
-.ci-export:before {
+.ci-draw-rectangle:before {
   content: "\e913";
 }
-.ci-file:before {
+.ci-edit:before {
   content: "\e914";
 }
-.ci-file-code:before {
+.ci-exclamation:before {
   content: "\e915";
 }
-.ci-file-doc:before {
+.ci-export:before {
   content: "\e916";
 }
-.ci-file-img:before {
+.ci-file:before {
   content: "\e917";
 }
-.ci-file-pdf:before {
+.ci-file-code:before {
   content: "\e918";
 }
-.ci-files:before {
+.ci-file-doc:before {
   content: "\e919";
 }
-.ci-file-xls:before {
+.ci-file-img:before {
   content: "\e91a";
 }
-.ci-filter:before {
+.ci-file-pdf:before {
   content: "\e91b";
 }
-.ci-folder:before {
+.ci-file-xls:before {
   content: "\e91c";
 }
-.ci-folder-opened:before {
+.ci-files:before {
   content: "\e91d";
 }
-.ci-geom-filter:before {
+.ci-filter:before {
   content: "\e91e";
-}
-.ci-help:before {
-  content: "\e91f";
-}
-.ci-help-tooltip:before {
-  content: "\e920";
-}
-.ci-home:before {
-  content: "\e921";
-}
-.ci-import:before {
-  content: "\e922";
-}
-.ci-info:before {
-  content: "\e923";
-}
-.ci-iskn:before {
-  content: "\e924";
-}
-.ci-islh:before {
-  content: "\e925";
-}
-.ci-ko:before {
-  content: "\e926";
-}
-.ci-layers:before {
-  content: "\e927";
-}
-.ci-layer-search:before {
-  content: "\e928";
-}
-.ci-legend:before {
-  content: "\e929";
-}
-.ci-list:before {
-  content: "\e92a";
-}
-.ci-locate:before {
-  content: "\e92b";
-}
-.ci-locate-disabled:before {
-  content: "\e92c";
-}
-.ci-locate-success:before {
-  content: "\e92d";
-}
-.ci-login:before {
-  content: "\e92e";
-}
-.ci-logout:before {
-  content: "\e92f";
-}
-.ci-measure:before {
-  content: "\e930";
-}
-.ci-menu:before {
-  content: "\e931";
-}
-.ci-minus:before {
-  content: "\e932";
-}
-.ci-neighbours:before {
-  content: "\e933";
-}
-.ci-ok:before {
-  content: "\e934";
-}
-.ci-options:before {
-  content: "\e935";
-}
-.ci-pkn:before {
-  content: "\e936";
-}
-.ci-plus:before {
-  content: "\e937";
-}
-.ci-print:before {
-  content: "\e938";
-}
-.ci-remove:before {
-  content: "\e939";
-}
-.ci-save:before {
-  content: "\e93a";
-}
-.ci-search:before {
-  content: "\e93b";
-}
-.ci-spinner:before {
-  content: "\e93c";
-}
-.ci-talk-to:before {
-  content: "\e93d";
-}
-.ci-time:before {
-  content: "\e93e";
-}
-.ci-user:before {
-  content: "\e93f";
-}
-.ci-user-circle:before {
-  content: "\e940";
-}
-.ci-visible-layers:before {
-  content: "\e941";
-}
-.ci-vita:before {
-  content: "\e942";
-}
-.ci-wrench:before {
-  content: "\e943";
-}
-.ci-plus-circle:before {
-  content: "\e944";
-}
-.ci-minus-circle:before {
-  content: "\e945";
-}
-.ci-undo:before {
-  content: "\e946";
-}
-.ci-view-map:before {
-  content: "\e947";
-}
-.ci-bulk-actions:before {
-  content: "\e948";
-}
-.ci-forward:before {
-  content: "\e949";
-}
-.ci-language-switcher:before {
-  content: "\e94a";
 }
 .ci-filter-discard:before {
   content: "\e94b";
 }
-.ci-angle-top:before {
-  content: "\e94c";
+.ci-fit-to-size:before {
+  content: "\e91f";
 }
-.ci-angle-bottom:before {
-  content: "\e94d";
+.ci-folder:before {
+  content: "\e920";
 }
-.ci-text-align-left:before {
-  content: "\e94e";
-}
-.ci-text-align-center:before {
-  content: "\e94f";
-}
-.ci-text-align-right:before {
-  content: "\e950";
+.ci-folder-opened:before {
+  content: "\e921";
 }
 .ci-font-size:before {
   content: "\e951";
 }
-.ci-bold:before {
-  content: "\e952";
+.ci-forward:before {
+  content: "\e949";
+}
+.ci-geom-filter:before {
+  content: "\e922";
+}
+.ci-guideline-horizontal:before {
+  content: "\e923";
+}
+.ci-guideline-single-horizontal:before {
+  content: "\e924";
+}
+.ci-guideline-single-vertical:before {
+  content: "\e925";
+}
+.ci-guideline-vertical:before {
+  content: "\e926";
+}
+.ci-guidelines-horizontal:before {
+  content: "\e927";
+}
+.ci-guidelines-vertical:before {
+  content: "\e928";
+}
+.ci-hand:before {
+  content: "\e929";
+}
+.ci-help:before {
+  content: "\e92a";
+}
+.ci-help-tooltip:before {
+  content: "\e92b";
+}
+.ci-home:before {
+  content: "\e92c";
+}
+.ci-image:before {
+  content: "\e92d";
+}
+.ci-import:before {
+  content: "\e92e";
+}
+.ci-info:before {
+  content: "\e92f";
+}
+.ci-iskn:before {
+  content: "\e930";
+}
+.ci-islh:before {
+  content: "\e931";
 }
 .ci-italic:before {
   content: "\e953";
 }
-.ci-draw:before {
-  content: "\e954";
-}
-.ci-move-down:before {
-  content: "\e955";
-}
-.ci-move-left:before {
-  content: "\e956";
-}
-.ci-move-right:before {
-  content: "\e957";
-}
-.ci-move-up:before {
-  content: "\e958";
-}
-.ci-map:before {
-  content: "\e959";
+.ci-ko:before {
+  content: "\e932";
 }
 .ci-label:before {
   content: "\e95a";
+}
+.ci-language-switcher:before {
+  content: "\e94a";
+}
+.ci-layer-search:before {
+  content: "\e933";
+}
+.ci-layers:before {
+  content: "\e934";
+}
+.ci-legend:before {
+  content: "\e935";
+}
+.ci-list:before {
+  content: "\e936";
+}
+.ci-locate:before {
+  content: "\e937";
+}
+.ci-locate-disabled:before {
+  content: "\e938";
+}
+.ci-locate-success:before {
+  content: "\e939";
+}
+.ci-location-arrow:before {
+  content: "\e961";
+}
+.ci-login:before {
+  content: "\e93a";
+}
+.ci-logout:before {
+  content: "\e93b";
+}
+.ci-measure:before {
+  content: "\e93c";
+}
+.ci-menu:before {
+  content: "\e93d";
+}
+.ci-minus:before {
+  content: "\e93e";
+}
+.ci-minus-circle:before {
+  content: "\e945";
+}
+.ci-neighbours:before {
+  content: "\e93f";
+}
+.ci-ok:before {
+  content: "\e940";
+}
+.ci-one-to-one:before {
+  content: "\e941";
+}
+.ci-options:before {
+  content: "\e942";
+}
+.ci-pin:before {
+  content: "\e962";
+}
+.ci-pkn:before {
+  content: "\e943";
+}
+.ci-plus:before {
+  content: "\e944";
+}
+.ci-plus-circle:before {
+  content: "\e946";
+}
+.ci-print:before {
+  content: "\e947";
+}
+.ci-remove:before {
+  content: "\e94e";
 }
 .ci-resize-height:before {
   content: "\e95f";
@@ -394,12 +382,87 @@
 .ci-resize-width:before {
   content: "\e960";
 }
-.ci-location-arrow:before {
-  content: "\e961";
+.ci-ruler:before {
+  content: "\e94f";
 }
-.ci-pin:before {
-  content: "\e962";
+.ci-save:before {
+  content: "\e950";
+}
+.ci-search:before {
+  content: "\e955";
+}
+.ci-shape-circle:before {
+  content: "\e956";
+}
+.ci-shape-circle-empty:before {
+  content: "\e957";
+}
+.ci-shape-ellipse:before {
+  content: "\e958";
+}
+.ci-shape-ellipse-empty:before {
+  content: "\e959";
+}
+.ci-shape-rectangle:before {
+  content: "\e95b";
+}
+.ci-shape-rectangle-empty:before {
+  content: "\e95c";
+}
+.ci-shape-square:before {
+  content: "\e95d";
+}
+.ci-shape-square-empty:before {
+  content: "\e95e";
+}
+.ci-spinner:before {
+  content: "\e963";
+}
+.ci-star:before {
+  content: "\e964";
+}
+.ci-star-empty:before {
+  content: "\e965";
+}
+.ci-talk-to:before {
+  content: "\e966";
+}
+.ci-text-align-center:before {
+  content: "\e967";
+}
+.ci-text-align-left:before {
+  content: "\e968";
+}
+.ci-text-align-right:before {
+  content: "\e969";
+}
+.ci-time:before {
+  content: "\e96a";
+}
+.ci-trademark:before {
+  content: "\e96b";
+}
+.ci-undo:before {
+  content: "\e96c";
+}
+.ci-user:before {
+  content: "\e96d";
+}
+.ci-user-circle:before {
+  content: "\e96e";
+}
+.ci-view-map:before {
+  content: "\e96f";
+}
+.ci-visible-layers:before {
+  content: "\e970";
+}
+.ci-vita:before {
+  content: "\e971";
+}
+.ci-wrench:before {
+  content: "\e972";
 }
 .ci-zindex:before {
-  content: "\e963";
+  content: "\e973";
 }

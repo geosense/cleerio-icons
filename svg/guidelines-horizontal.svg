@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="icon-mustr.svg">
+   sodipodi:docname="guidelines-horizontal.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-95"
-     inkscape:cy="520"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="202.34506"
+     inkscape:cy="454.51526"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -174,7 +174,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -182,5 +182,48 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362161)" />
+     transform="translate(0,-28.362161)">
+    <g
+       transform="matrix(1.044898,0,0,1,-10.44898,239.66216)"
+       id="g38">
+      <g
+         id="g6">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 10,812.7 v -1024 h 61.249998 v 1024 z m 980,0 -4e-5,-1024 h -61.25 v 1024 z m -857.5,-512 122.49999,128 v -256 z m 734.99997,0 -122.5,-128 v 256 z"
+           id="path4"
+           sodipodi:nodetypes="cccccccccccccccccc" />
+      </g>
+      <g
+         id="g8" />
+      <g
+         id="g10" />
+      <g
+         id="g12" />
+      <g
+         id="g14" />
+      <g
+         id="g16" />
+      <g
+         id="g18" />
+      <g
+         id="g20" />
+      <g
+         id="g22" />
+      <g
+         id="g24" />
+      <g
+         id="g26" />
+      <g
+         id="g28" />
+      <g
+         id="g30" />
+      <g
+         id="g32" />
+      <g
+         id="g34" />
+      <g
+         id="g36" />
+    </g>
+  </g>
 </svg>
