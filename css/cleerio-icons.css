@@ -190,6 +190,15 @@
 .ci-draw-line:before {
   content: "\e912";
 }
+.ci-draw-polygon-five:before {
+  content: "\e975";
+}
+.ci-draw-polygon-four:before {
+  content: "\e976";
+}
+.ci-draw-polygon-three:before {
+  content: "\e977";
+}
 .ci-draw-rectangle:before {
   content: "\e913";
 }
@@ -402,6 +411,24 @@
 }
 .ci-shape-ellipse-empty:before {
   content: "\e959";
+}
+.ci-shape-polygon-five:before {
+  content: "\e978";
+}
+.ci-shape-polygon-five-empty:before {
+  content: "\e979";
+}
+.ci-shape-polygon-four:before {
+  content: "\e97a";
+}
+.ci-shape-polygon-four-empty:before {
+  content: "\e97b";
+}
+.ci-shape-polygon-three:before {
+  content: "\e97c";
+}
+.ci-shape-polygon-three-empty:before {
+  content: "\e97d";
 }
 .ci-shape-rectangle:before {
   content: "\e95b";
