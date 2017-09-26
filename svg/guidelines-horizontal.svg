@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="400.58819"
+     inkscape:cx="68.248005"
      inkscape:cy="411.25078"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -190,7 +190,7 @@
          id="g6">
         <path
            inkscape:connector-curvature="0"
-           d="m 10,812.7 v -1024 l 122.5,0 v 1024 z m 980,0 -4e-5,-1024 -122.49999,0 v 1024 z m -857.5,-512 122.49999,128 v -256 z m 734.99997,0 -122.5,-128 v 256 z"
+           d="m 10,812.7 v -1024 h 91.875 v 1024 z m 980,0 -4e-5,-1024 h -91.87499 v 1024 z m -857.5,-512 122.49999,128 v -256 z m 734.99997,0 -122.5,-128 v 256 z"
            id="path4"
            sodipodi:nodetypes="cccccccccccccccccc" />
       </g>

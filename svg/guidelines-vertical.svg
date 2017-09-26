@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="-129.99513"
-     inkscape:cy="454.51526"
+     inkscape:cx="38.700344"
+     inkscape:cy="434.31221"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -190,7 +190,7 @@
          id="g6">
         <path
            style="stroke-width:1.02220249"
-           d="M 0,0 V 1024 H 128 V 0 Z m 896,0 v 1024 h 128 V 0 Z M 256,384 128,512 256,640 Z m 512,0 V 640 L 896,512 Z"
+           d="M 0,0 V 1024 H 96 V 0 Z m 928,0 v 1024 h 96 V 0 Z M 256,384 128,512 256,640 Z m 512,0 V 640 L 896,512 Z"
            transform="matrix(0.95703121,0,0,1,10,-211.3)"
            id="path4"
            inkscape:connector-curvature="0"

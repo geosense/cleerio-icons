@@ -184,24 +184,6 @@
 .ci-draw:before {
   content: "\e954";
 }
-.ci-draw-circle:before {
-  content: "\e911";
-}
-.ci-draw-line:before {
-  content: "\e912";
-}
-.ci-draw-polygon-five:before {
-  content: "\e975";
-}
-.ci-draw-polygon-four:before {
-  content: "\e976";
-}
-.ci-draw-polygon-three:before {
-  content: "\e977";
-}
-.ci-draw-rectangle:before {
-  content: "\e913";
-}
 .ci-edit:before {
   content: "\e914";
 }
@@ -397,6 +379,9 @@
 .ci-save:before {
   content: "\e950";
 }
+.ci-save-file:before {
+  content: "\e911";
+}
 .ci-search:before {
   content: "\e955";
 }
@@ -411,6 +396,9 @@
 }
 .ci-shape-ellipse-empty:before {
   content: "\e959";
+}
+.ci-shape-line:before {
+  content: "\e912";
 }
 .ci-shape-polygon-five:before {
   content: "\e978";
@@ -489,7 +477,4 @@
 }
 .ci-wrench:before {
   content: "\e972";
-}
-.ci-zindex:before {
-  content: "\e973";
 }
