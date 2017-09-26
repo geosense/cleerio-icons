@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2509766"
-     inkscape:cx="582.39127"
-     inkscape:cy="844.96049"
+     inkscape:zoom="0.6254883"
+     inkscape:cx="435.86602"
+     inkscape:cy="814.73686"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -199,9 +199,10 @@
          id="g18">
         <path
            inkscape:connector-curvature="0"
-           d="M 2205.4691,109.99989 V -4698.2002 h 172.2656 172.2656 V 109.99989 4918.1 h -172.2656 -172.2656 z"
+           d="M 1325.0002,109.95023 V -4698.2499 c 408.3334,0.014 816.6667,0.05 1225.0001,0.05 V 109.99989 4918.1 c -408.3334,-0 -816.6667,-0.03 -1225.0001,-0.05 z"
            id="path4"
-           style="stroke-width:0.85058868" />
+           style="stroke-width:0.85058868"
+           sodipodi:nodetypes="ccccccc" />
         <path
            inkscape:connector-curvature="0"
            d="M 100.00027,-1092.0873 1325.0002,109.95023 100.00027,1311.9878 Z"

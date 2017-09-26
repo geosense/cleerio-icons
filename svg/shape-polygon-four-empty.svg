@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="312.06942"
+     inkscape:cx="-166.93058"
      inkscape:cy="362.86375"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -146,7 +146,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -156,10 +156,9 @@
      id="layer1"
      transform="translate(0,-28.362161)">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:59.45078659;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 853.32192,28.3622 0,199.0168 C 56.897607,426.58029 113.78972,654.14515 170.68389,881.7095 L 1024,1052.3622 Z M 804.84829,98.748375 951.25246,977.12269 219.15361,830.71296 72.75531,245.15811 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:58.06232071;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 851.34443,28.758964 C 567.56333,85.514617 283.78183,142.26829 0,199.02028 56.89597,426.58242 113.78945,654.14521 170.68319,881.70791 455.12211,938.5927 739.56107,995.4773 1024,1052.3622 967.10695,711.02894 910.21505,369.69551 853.32251,28.3622 c -0.65936,0.132254 -1.31872,0.264509 -1.97808,0.396764 z m 77.6868,925.419396 C 697.3436,907.84346 465.65598,861.50856 233.96836,815.17366 187.63452,629.85883 141.30068,444.54402 94.966849,259.2292 326.65574,212.89112 558.34463,166.55303 790.03353,120.21495 c 46.33257,277.9878 92.66513,555.97561 138.9977,833.96341 z"
        id="path4500"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
