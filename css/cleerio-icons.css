@@ -364,6 +364,9 @@
 .ci-print:before {
   content: "\e947";
 }
+.ci-redo:before {
+  content: "\e913";
+}
 .ci-remove:before {
   content: "\e94e";
 }

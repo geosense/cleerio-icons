@@ -15,7 +15,7 @@
    id="svg3353"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="guideline-single-vertical.svg">
+   sodipodi:docname="guideline-single-horizontal.svg">
   <defs
      id="defs3355" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="439.55264"
-     inkscape:cy="461.10435"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="99.028319"
+     inkscape:cy="416.98187"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -184,13 +184,13 @@
      id="layer1"
      transform="translate(0,-28.362161)">
     <g
-       transform="matrix(-1.044898,0,0,-1,1034.449,777.06216)"
+       transform="matrix(0,1.044898,-1.5000002,0,899.05009,17.913177)"
        id="g38">
       <g
          id="g6">
         <path
            style="stroke-width:0.99999994"
-           d="M 10.000004,236.7 H 989.99997 l 1e-5,-128 H 10.000019 Z M 377.5,492.7 h 245 L 500,364.7 Z"
+           d="M 9.9999995,258.03336 H 989.99997 l 0,-85.33336 H 10.000004 Z M 377.49999,428.7 h 244.99999 l -122.5,-85.33332 z"
            id="path4"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccccccc" />
