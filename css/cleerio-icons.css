@@ -367,6 +367,9 @@
 .ci-redo:before {
   content: "\e913";
 }
+.ci-reload:before {
+  content: "\e973";
+}
 .ci-remove:before {
   content: "\e94e";
 }
