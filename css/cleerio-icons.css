@@ -484,3 +484,9 @@
 .ci-wrench:before {
   content: "\e972";
 }
+.ci-zindex-down:before {
+  content: "\e975";
+}
+.ci-zindex-up:before {
+  content: "\e976";
+}
