@@ -349,6 +349,12 @@
 .ci-options:before {
   content: "\e942";
 }
+.ci-padlock-locked:before {
+  content: "\e911";
+}
+.ci-padlock-unlocked:before {
+  content: "\e912";
+}
 .ci-pin:before {
   content: "\e962";
 }
@@ -386,25 +392,25 @@
   content: "\e950";
 }
 .ci-save-file:before {
-  content: "\e911";
-}
-.ci-search:before {
   content: "\e955";
 }
-.ci-shape-circle:before {
+.ci-search:before {
   content: "\e956";
 }
-.ci-shape-circle-empty:before {
+.ci-shape-circle:before {
   content: "\e957";
 }
-.ci-shape-ellipse:before {
+.ci-shape-circle-empty:before {
   content: "\e958";
 }
-.ci-shape-ellipse-empty:before {
+.ci-shape-ellipse:before {
   content: "\e959";
 }
+.ci-shape-ellipse-empty:before {
+  content: "\e95b";
+}
 .ci-shape-line:before {
-  content: "\e912";
+  content: "\e95c";
 }
 .ci-shape-polygon-five:before {
   content: "\e978";
@@ -425,68 +431,68 @@
   content: "\e97d";
 }
 .ci-shape-rectangle:before {
-  content: "\e95b";
-}
-.ci-shape-rectangle-empty:before {
-  content: "\e95c";
-}
-.ci-shape-square:before {
   content: "\e95d";
 }
-.ci-shape-square-empty:before {
+.ci-shape-rectangle-empty:before {
   content: "\e95e";
 }
-.ci-spinner:before {
+.ci-shape-square:before {
   content: "\e963";
 }
-.ci-star:before {
+.ci-shape-square-empty:before {
   content: "\e964";
 }
-.ci-star-empty:before {
+.ci-spinner:before {
   content: "\e965";
 }
-.ci-talk-to:before {
+.ci-star:before {
   content: "\e966";
 }
-.ci-text-align-center:before {
+.ci-star-empty:before {
   content: "\e967";
 }
-.ci-text-align-left:before {
+.ci-talk-to:before {
   content: "\e968";
 }
-.ci-text-align-right:before {
+.ci-text-align-center:before {
   content: "\e969";
 }
-.ci-time:before {
+.ci-text-align-left:before {
   content: "\e96a";
 }
-.ci-trademark:before {
+.ci-text-align-right:before {
   content: "\e96b";
 }
-.ci-undo:before {
+.ci-time:before {
   content: "\e96c";
 }
-.ci-user:before {
+.ci-trademark:before {
   content: "\e96d";
 }
-.ci-user-circle:before {
+.ci-undo:before {
   content: "\e96e";
 }
-.ci-view-map:before {
+.ci-user:before {
   content: "\e96f";
 }
-.ci-visible-layers:before {
+.ci-user-circle:before {
   content: "\e970";
 }
-.ci-vita:before {
+.ci-view-map:before {
   content: "\e971";
 }
-.ci-wrench:before {
+.ci-visible-layers:before {
   content: "\e972";
 }
-.ci-zindex-down:before {
+.ci-vita:before {
   content: "\e975";
 }
-.ci-zindex-up:before {
+.ci-wrench:before {
   content: "\e976";
+}
+.ci-zindex-down:before {
+  content: "\e977";
+}
+.ci-zindex-up:before {
+  content: "\e97e";
 }
