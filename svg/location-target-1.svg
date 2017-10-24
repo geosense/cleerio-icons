@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   id="svg3353"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="location-target.svg">
+  <defs
+     id="defs3355" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-79.658933"
+     inkscape:cy="567.23411"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,512"
+       orientation="0,1"
+       id="guide3361"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,128"
+       orientation="0,1"
+       id="guide3363"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,256"
+       orientation="0,1"
+       id="guide3365"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,640"
+       orientation="0,1"
+       id="guide3367"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,384"
+       orientation="0,1"
+       id="guide3369"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,768"
+       orientation="0,1"
+       id="guide3371"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,896"
+       orientation="0,1"
+       id="guide3373"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="896,0"
+       orientation="1,0"
+       id="guide3375"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="128,0"
+       orientation="1,0"
+       id="guide3377"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="256,0"
+       orientation="1,0"
+       id="guide3379"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="384,0"
+       orientation="1,0"
+       id="guide3383"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="512,0"
+       orientation="1,0"
+       id="guide3385"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="640,0"
+       orientation="1,0"
+       id="guide3387"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="768,0"
+       orientation="1,0"
+       id="guide3389"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3358">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362161)">
+    <path
+       style="fill:currentColor"
+       d="M 465.05664 0 L 465.05664 95.863281 C 368.98841 106.75689 286.0221 148.15393 216.1543 217.87305 C 146.2865 285.41347 104.80176 368.20349 96.068359 466.24609 L 0 466.24609 L 0 557.75391 L 96.068359 557.75391 C 104.80176 655.79645 146.2865 738.5875 216.1543 808.30664 C 286.0221 875.84706 368.98841 917.24312 465.05664 928.13672 L 465.05664 1024 L 558.94336 1024 L 558.94336 928.13672 C 655.01159 917.24312 737.9779 875.84706 807.8457 808.30664 C 877.71351 738.5875 917.0148 655.79645 927.93164 557.75391 L 1024 557.75391 L 1024 466.24609 L 927.93164 466.24609 C 917.0148 368.20349 877.71351 285.41347 807.8457 217.87305 C 737.9779 148.15393 655.01159 106.75689 558.94336 95.863281 L 558.94336 0 L 465.05664 0 z M 558.94336 190.39258 C 628.98508 199.78516 690.12527 231.12506 742.3457 283.23438 C 794.56587 335.34345 825.97199 396.3538 835.38477 466.24609 L 640 466.24609 L 640 557.75391 L 835.4082 557.75391 C 826.02477 628.23869 794.61009 690.79212 742.3457 742.94531 C 690.12529 795.05461 628.98505 824.91203 558.94336 833.78516 L 558.94336 640 L 465.05664 640 L 465.05664 833.63672 C 394.31382 824.57508 333.57556 794.75609 281.6543 742.94531 C 227.58767 690.79214 197.3467 628.23867 188.42773 557.75391 L 384 557.75391 L 384 466.24609 L 188.44922 466.24609 C 197.39671 396.35378 227.63338 335.34346 281.6543 283.23438 C 333.57555 231.42361 394.31384 200.1398 465.05664 190.55078 L 465.05664 384 L 558.94336 384 L 558.94336 190.39258 z "
+       transform="translate(0,28.362161)"
+       id="path6-2" />
+  </g>
+</svg>
