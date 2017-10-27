@@ -319,11 +319,8 @@
 .ci-location-arrow:before {
   content: "\e961";
 }
-.ci-location-target-1:before {
+.ci-location-target:before {
   content: "\e97f";
-}
-.ci-location-target-2:before {
-  content: "\e980";
 }
 .ci-login:before {
   content: "\e93a";
