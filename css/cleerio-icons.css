@@ -328,6 +328,9 @@
 .ci-logout:before {
   content: "\e93b";
 }
+.ci-marker:before {
+  content: "\e980";
+}
 .ci-measure:before {
   content: "\e93c";
 }
