@@ -238,6 +238,9 @@
 .cmi-remove-polygon:before {
   content: "\e945";
 }
+.cmi-save-file:before {
+  content: "\e949";
+}
 .cmi-layer-search:before {
   content: "\e946";
 }
