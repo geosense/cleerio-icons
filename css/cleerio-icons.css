@@ -391,6 +391,9 @@
 .ci-resize-width:before {
   content: "\e960";
 }
+.ci-ruian:before {
+  content: "\e981";
+}
 .ci-ruler:before {
   content: "\e94f";
 }
