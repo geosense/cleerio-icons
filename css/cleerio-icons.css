@@ -295,6 +295,24 @@
 .ci-language-switcher:before {
   content: "\e94a";
 }
+.ci-layer-collection:before {
+  content: "\e982";
+}
+.ci-layer-image:before {
+  content: "\e984";
+}
+.ci-layer-line:before {
+  content: "\e985";
+}
+.ci-layer-nongeometry:before {
+  content: "\e983";
+}
+.ci-layer-point:before {
+  content: "\e986";
+}
+.ci-layer-polygon:before {
+  content: "\e987";
+}
 .ci-layer-search:before {
   content: "\e933";
 }
