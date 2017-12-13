@@ -301,7 +301,7 @@
 .ci-layer-image:before {
   content: "\e984";
 }
-.ci-layer-line:before {
+.ci-layer-linestring:before {
   content: "\e985";
 }
 .ci-layer-nongeometry:before {
@@ -468,6 +468,12 @@
 }
 .ci-shape-square-empty:before {
   content: "\e964";
+}
+.ci-snap-off:before {
+  content: "\e988";
+}
+.ci-snap-on:before {
+  content: "\e989";
 }
 .ci-spinner:before {
   content: "\e965";
