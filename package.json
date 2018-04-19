@@ -1,6 +1,6 @@
 {
   "name": "@cleerio/cleerio-icons",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "private": false,
   "description": "Icon set for Cleerio apps",
   "main": "dist/index.js",

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg3353" inkscape:version="0.91 r13725" sodipodi:docname="circle-danger.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1024 1024"
+	 style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:#1D1D1B;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="342.80758" inkscape:cy="395.61343" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="801" inkscape:window-maximized="1" inkscape:window-width="1536" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.30859375" pagecolor="#ffffff" showgrid="false" showguides="true" units="px">
+	<sodipodi:guide  id="guide3361" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="0,1" position="0,512">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3363" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="0,1" position="0,128">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3365" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="0,1" position="0,256">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3367" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="0,1" position="0,640">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3369" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="0,1" position="0,384">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3371" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="0,1" position="0,768">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3373" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="0,1" position="0,896">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3375" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="1,0" position="896,0">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3377" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="1,0" position="128,0">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3379" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="1,0" position="256,0">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3383" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="1,0" position="384,0">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3385" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="1,0" position="512,0">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3387" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="1,0" position="640,0">
+		</sodipodi:guide>
+	<sodipodi:guide  id="guide3389" inkscape:color="rgb(0,0,255)" inkscape:label="" orientation="1,0" position="768,0">
+		</sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-28.362161)" inkscape:groupmode="layer" inkscape:label="Vrstva 1" class="st0">
+	<g id="g4" transform="matrix(2.3981265,0,0,-2.4037559,-103.11944,1155.7237)" class="st1">
+		<path id="path6" inkscape:connector-curvature="0" d="M235,192h43v-43h-43V192z M235,363h43V235h-43V363z M256,469
+			c59,0,109-21,151-63c42-41,63-91,63-150s-21-109-63-151c-42-41-92-62-151-62s-109,21-151,62c-42,42-62,92-62,151s20,109,62,150
+			C147,448,197,469,256,469z M256,85c47,0,87,17,121,50c33,33,50,74,50,121s-17,88-50,121c-34,33-74,50-121,50s-87-17-120-50
+			c-34-33-50-74-50-121s16-88,50-121C169,102,209,85,256,85z"/>
+	</g>
+</g>
+<image style="display:none;overflow:visible;" width="200" height="200" xlink:href="../../změna-emailu/Data/18418-200.png"  transform="matrix(5.2429 0 0 5.2429 -9 -76.6994)">
+</image>
+<path class="st2" d="M1015.9,871.2L571,92.9c-23.4-41-83.1-41.3-106.9-0.5L8.4,870.7c-23.8,40.6,5.9,91.3,53.3,91.3h900.6
+	C1009.5,962,1039.1,911.8,1015.9,871.2z M471.8,391.5l35.1-14.6c3.7-1.5,7.9-1.6,11.6-0.2l39.6,15c6.8,2.6,10.9,9.5,9.9,16.6
+	l-37.8,255c-1.1,7.6-7.7,13.2-15.4,13.2c-7.8,0-14.4-5.6-15.5-13.2l-36.9-255.4C461.4,400.9,465.2,394.2,471.8,391.5z M515.2,826.4
+	c-30.1,0-54.6-24.1-54.6-53.9c0-29.8,24.4-53.9,54.6-53.9c30.1,0,54.6,24.1,54.6,53.9C569.8,802.3,545.4,826.4,515.2,826.4z"/>
+</svg>

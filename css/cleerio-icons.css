@@ -529,3 +529,6 @@
 .ci-zindex-up:before {
   content: "\e97e";
 }
+.ci-alert:before {
+  content: "\e980";
+}
